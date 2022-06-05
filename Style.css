@@ -1,0 +1,32 @@
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.namecolor {
+    color: rgb(128, 128, 15);
+}
+
+section {
+    display: flex;
+}
+
+.Half-width {
+    width: 50%;
+    padding-left: 50px;
+}
+
+.Half-width img {
+    width: 70%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: chocolate;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    border-radius: 15px;
+}
